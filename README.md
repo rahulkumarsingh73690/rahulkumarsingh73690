@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Rahul Kumar Singh 👋
 
-<!--
-**rahulkumarsingh73690/rahulkumarsingh73690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, data science, and open-source contributions. Here's a little more about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning advanced Python and exploring AI/ML.
+- 👯 I'm looking to collaborate on open-source projects.
+- 💬 Ask me about JavaScript, Python, and data science.
+- 📫 How to reach me: rahulkumarsingh73690@gmail.com
+- ⚡ Fun fact: I like play video games.
+
+## 🛠️ Technologies & Tools
+
+- **Programming Languages:** JavaScript, Python
+- **Web Development:** HTML, CSS, React, Node.js, Vue, Nextjs, Nuxtjs
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, VS Code
+
+## 📈 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkumarsingh73690&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rahulkumarsingh73690/)
+- [Twitter](https://twitter.com/rahulkumarsingh73690)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+Thanks for stopping by! 😊
