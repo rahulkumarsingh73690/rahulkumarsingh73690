@@ -17,14 +17,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, VS Code
 
-## 📈 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkumarsingh73690&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rahulkumarsingh73690/)
-- [Twitter](https://twitter.com/rahulkumarsingh73690)
+- [Twitter](https://x.com/rahulitblog)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
